@@ -1,0 +1,116 @@
+Name=Meebo
+Description=Meebo IM Smileys (www.meebo.com)
+Icon=smie.gif
+Author=Donny
+# ver. 2.2010-08-14
+
+[default]
+# line 1
+smile.gif               :-) :) =) =-) (smile)
+big_smile.gif           :-D :D (grin)
+cool.gif                B-) B) (cool) 8) 8-)
+smug.gif                :-> :>
+pirate.gif              P) (arr) (arrr) (pirate) :pirate:
+
+# line 2
+wink.gif                ;-) ;) (wink)
+lol.gif                 (lol) x-D X-D :))
+tongue.gif              :-P :P
+wink_tongue.gif         ;-P ;P
+confused.gif            :-S :S :-s :s :-? :?
+
+# line 3
+kiss.gif                :-* :* :-{}
+yikes.gif               :-o :o :-O :O (eek) (shock) (yikes)
+neutral.gif             :-| :| (neutral)
+disappoint.gif          :-T :T
+oops.gif                :-x :x :-X :X
+
+# line 4
+sad.gif                 :-( :( (sad)
+happy_tear.gif          :'D
+upset.gif               :-< :<
+hmm2.gif                :-\ :\
+hmm.gif                 (hmm)
+
+# line 5
+emo.gif                 (emo) //:|
+rapper.gif              (rapper)
+peace.gif               :)>-
+ninja.gif               (ninja)
+skull.gif               (skull)
+
+# line 6 - swop angel <=> pacman
+angel.gif               O:) O:-) (angel)
+ghost.gif               (ghost)
+monkey.gif              8(|) :(|) (m)
+panda.gif               (panda)
+pig.gif                 :@)
+
+! pacman.gif            (pacman)
+! meebo.gif             (meebo) :meebo: *meebo*
+! party.gif             <:-p <:o) <:-P (party)
+! mad.gif               (mad) >>:( >:( >>:-( >:-(
+! roll.gif              (roll) (rolleyes)
+! evil.gif              (evil) (devil) >:) >>:) >>:-) >:-)
+! angry.gif             (angry) >:o
+! exclaim.gif           :!:
+! arrow.gif             :arrow:
+! nerd.gif              :-B :B :-b :b (nerd)
+! love.gif              (love) (l)
+! unlove.gif            (unlove) (u)
+! rose-dead.gif         (w)
+! rose.gif              (r) @};-
+! thumb-up.gif          (y)
+! thumb-down.gif        (n)
+! money.gif             $) $-) (money)
+! star.gif              (*)
+! question.gif          (?)
+! ssssh.gif             :-#
+! sick.gif              :-& +o( (sick)
+! loser.gif             L-) (loser)
+! sleepy.gif            |-) (sleepy)
+! sarcasm.gif           (sarcasm) /:) /:-)
+! liar.gif              (liar) :^o :^O
+! beaten.gif            (beaten) b-(
+! omg.gif               (O_O) (O.O)
+! oogly.gif             (o.O) (O.o)
+! soccer.gif            (so)
+! hug.gif               (hug)
+! bender.gif            (bender)
+! genderbender.gif      (genderbender)
+! doraemon.gif          (doraemon)
+! frisbee.gif           (ultimatefrisbee)
+! tare.gif              (tarepanda)
+! foursquare.gif        (foursquare)
+! fingerblaster.gif     (fingerblaster)
+! nerd-pirate.gif       (nerdpirate)
+! rockyou.gif           (rockyou)
+! plaxo.gif             (plaxo)
+! cheezburger.gif       (cheezburger)
+! lolwut.gif            (lolwut)
+! fail.gif              (fail)
+! brainslug.gif         (brainslug)
+! grillz.gif            (grillz)
+! mom.gif               (mom)
+! beetle.gif            (vw)
+! monkeyking.gif        (monkeyking)
+! letsgogiants.gif      (letsgogiants)
+! meebosimon.gif        (simon)
+! pilot.gif             (pilot)
+! prosopagnosiac.gif    (prosopagnosiac)
+! r2d2.gif              (r2d2)
+! sadpanda.gif          (sadpanda)
+! chicago.gif           (chicago)
+! mikey.gif             (mikey)
+! moto.gif              (moto)
+! nutella.gif           (nutella)
+! pnb.gif               (pnb)
+! stanford.gif          (stanford)
+! yoga.gif              (yoga)
+! shaka.gif             (shaka)
+! schroedinger.gif      (schroedinger)
+! pac-man.gif           (pac-man)
+! pac-ghost.gif         (pac-ghost)
+! pac-run.gif           (pac-run)
+! bomb.gif              (bomb)
